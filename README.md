@@ -9,3 +9,5 @@ Run the parse script command.
 ```
 npm run parse
 ```
+
+Interfaces will be generated in the `./interfaces` folder.
